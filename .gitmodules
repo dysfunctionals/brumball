@@ -1,0 +1,12 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:dysfunctionals/brumball-server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:dysfunctionals/brumball-client.git
+[submodule "display"]
+	path = display
+	url = git@github.com:dysfunctionals/brumball-display.git
+[submodule "test"]
+	path = test
+	url = git@github.com:dysfunctionals/brumball-test.git
